@@ -192,7 +192,23 @@ A3 es un juego de plataformas donde un personaje "Hero", tiene que ir consiguien
 <h2><strong> ⭐Videos⭐</strong></h2>
 </div>
 
+■━■━■━■■━■━■━■■━■━■━■
+
+https://github.com/user-attachments/assets/b22755a9-cba6-4e47-8ab0-5ff818cc5a60
+
+■━■━■━■■━■━■━■■━■━■━■
+
+https://github.com/user-attachments/assets/e22a6a64-1bfe-447c-955a-64e9eed86c7a
+
+■━■━■━■■━■━■━■■━■━■━■
+
+https://github.com/user-attachments/assets/8b644b5a-c0b7-449a-8035-0c97fb1bdc97
+
+
+
 ●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●～●
 <div align="center">
 <h2><strong> ⭐Comentarios finales⭐</strong></h2>
 </div>
+
+El haber logrado desarrollar una version un poco mas completa del juego beta "A3", fue algo enriquecedor para poder obetner mas conocimiento dentro del mismo godot, fue un poco dificil ya que el agregar el nuevo sistema de guardado y cargado entro en conflicto con otros scripts que tambien tuvieron que ser modificados para acoplarse al nuevo juego, pero al final se obtuvo el resultado esperado totalmente.
